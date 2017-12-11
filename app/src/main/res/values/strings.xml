@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Food Hygiene</string>
+    <string name="title_activity_home_page">Food Hygiene Rating</string>
+    <string name="title_activity_fhgoogle_map">Food Hygiene Google MapMap</string>
+    <string name="google_app_id">onyx-philosophy-125716</string>
+</resources>
